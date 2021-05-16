@@ -1,5 +1,5 @@
 # Airlines Data Analaysis Dashboard using Tableau : 
-**Link to Tableau Workbook : https://drive.google.com/drive/folders/1pJeIV8RBFYcicYzXJu7Q2MY8UdWC-8hZ?usp=sharing
+**Link to Tableau Workbook** : https://drive.google.com/drive/folders/1pJeIV8RBFYcicYzXJu7Q2MY8UdWC-8hZ?usp=sharing
 
 ### - Problem Statement
 
