@@ -12,5 +12,5 @@ http://web.mit.edu/airlinedata/www/Resources.html
 
 ### - Analysis and Solution
 Please refer **"AirlineDataAnalysis_Answers.doc"**.
-
+![AirlineDataAnalysis_Answers.doc](https://github.com/Sneeky23/AirlinesDataAnalaysisDashboard/blob/main/Dashboard.pdf)
 
